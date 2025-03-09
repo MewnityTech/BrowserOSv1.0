@@ -29,6 +29,7 @@ Clone the repository:
 git clone https://github.com/ProgCrafterq/BrowserOSv1.0
 
 Open index.html in a browser
+Press F11 for FullScreen!
 
 Enjoy using BrowserOS! 🚀
 
@@ -91,6 +92,7 @@ BrowserOS v1.0 — это первая версия эксперименталь
 git clone https://github.com/ProgCrafterq/BrowserOSv1.0
 
 Откройте index.html в браузере
+Нажмите F11 для полноекранного сайта!
 
 Наслаждайтесь работой с BrowserOS! 🚀
 
