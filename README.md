@@ -26,7 +26,7 @@ BrowserOS v1.0 is the first version of an experimental browser-based operating s
 
 Clone the repository:
 
-git clone https://github.com/username/BrowserOS.git
+git clone https://github.com/ProgCrafterq/BrowserOSv1.0
 
 Open index.html in a browser
 
@@ -58,7 +58,7 @@ JavaScript – logic and interactive functions
 
 Volodymyr Shevchenko
 
-GitHub: Mewnity
+GitHub:  ProgCrafterq
 
 BrowserOS v1.0
 
@@ -88,7 +88,7 @@ BrowserOS v1.0 — это первая версия эксперименталь
 
 Склонируйте репозиторий:
 
-git clone https://github.com/username/BrowserOS.git
+git clone https://github.com/ProgCrafterq/BrowserOSv1.0
 
 Откройте index.html в браузере
 
@@ -120,5 +120,5 @@ JavaScript — логика работы и интерактивные функ�
 
 Volodymyr Shevchenko 
 
-GitHub: Mewnity
+GitHub: ProgCrafterq
 
