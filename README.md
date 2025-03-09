@@ -31,6 +31,9 @@ git clone https://github.com/ProgCrafterq/BrowserOSv1.0
 Open index.html in a browser
 Press F11 for FullScreen!
 
+Youtube video about the BrowserOs v1.0
+https://youtu.be/gCIwcJKanVg?si=OKkQ8vy7rvKRz4U7
+
 Enjoy using BrowserOS! 🚀
 
 🛠️ Future Updates
@@ -93,6 +96,9 @@ git clone https://github.com/ProgCrafterq/BrowserOSv1.0
 
 Откройте index.html в браузере
 Нажмите F11 для полноекранного сайта!
+
+Youtube видео про BrowserOs v1.0
+https://youtu.be/gCIwcJKanVg?si=OKkQ8vy7rvKRz4U7
 
 Наслаждайтесь работой с BrowserOS! 🚀
 
