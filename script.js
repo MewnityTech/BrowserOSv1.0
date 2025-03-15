@@ -564,7 +564,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
     }
     
-    // Additional features ILL DO IT SOOON !!!!!!!!!!!!!!!! WAIT
+    // доп функции в 1.2 будет
     
     function showNotification(title, message) {
         const notification = document.createElement('div');
