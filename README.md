@@ -22,14 +22,6 @@ BrowserOS v1.0 is the first version of an experimental browser-based operating s
 
 📊 Calculator with basic math operations
 
-📃 Installation & Running
-
-Clone the repository:
-
-git clone https://github.com/ProgCrafterq/BrowserOSv1.0
-
-Open index.html in a browser
-Press F11 for FullScreen!
 
 Youtube video about the BrowserOs v1.0
 https://youtu.be/gCIwcJKanVg?si=OKkQ8vy7rvKRz4U7
@@ -62,7 +54,6 @@ JavaScript – logic and interactive functions
 
 Volodymyr Shevchenko
 
-GitHub:  ProgCrafterq
 
 BrowserOS v1.0
 
